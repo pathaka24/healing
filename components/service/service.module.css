@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 1rem;
 }
 
 .card {
@@ -18,7 +19,7 @@
  
 .titles p{
     color: brown;
-
+    margin-top: 1rem;
 }
 
 

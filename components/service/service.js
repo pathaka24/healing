@@ -53,7 +53,7 @@ const Service = () => {
     spacing={2}>
         <div className={styles.title}>
              <div className ={styles.titles}>
-                  <p>OUR SERVICES</p>
+                  <p>OUR SERVICES ff</p>
                   <h1>What We are Offering</h1>
              </div>
 
