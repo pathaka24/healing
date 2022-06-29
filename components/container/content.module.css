@@ -31,10 +31,11 @@
     display: flex;
     padding-left: 3rem;
     margin-bottom: 3rem;
+    align-items: center;
 }
 
 .iconContainer p {
-    margin-bottom: 3rem;
+   
     font-weight: 700;
     cursor: pointer;
 }
