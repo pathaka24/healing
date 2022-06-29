@@ -1,12 +1,14 @@
 import Head from 'next/head'
-import Image from 'next/image'
+ 
 import Navbar from '../components/navbar/navbar'
-import styles from '../styles/Home.module.css'
+import HomePage from '../components/homeBanner/home'
+ 
 
-export default function Home() {
+export default function App() {
   return (
-    <div className={styles.container}>
+    <div >
            <Navbar />
+           <HomePage  imgUrl='/static/banner.jpg'/>
     </div>
   )
 }
