@@ -6,6 +6,7 @@ import Container from '../components/container/container'
 import Banner from '../components/banner/banner'
 import Service from '../components/service/service'
 import List from '../components/testimon/list'
+import Contact from '../components/contact/contact'
  
 
 export default function App() {
@@ -22,7 +23,7 @@ export default function App() {
            <List />
            <List />
            </div>
-          
+            <Contact />
     </div>
   )
 }
