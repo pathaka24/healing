@@ -12,7 +12,7 @@ export default function App() {
            <Navbar />
            <HomePage  imgUrl='/static/banner.jpg'/>
            <Container /> 
-           <Banner imgUrl='/static/startup-1.jpg' pattern='/static/pattern-1.png' />
+           <Banner imgUrl='/static/proudly-1.jpg' pattern='/static/pattern-1.png' />
     </div>
   )
 }

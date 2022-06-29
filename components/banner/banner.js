@@ -1,9 +1,9 @@
-import zIndex from '@mui/material/styles/zIndex'
+ 
 import React from 'react'
 import styles from './banner.module.css'
 
 const Banner = ({ imgUrl , pattern }) => {
-       const bannerTextP = '  Donec pellentesque dapibus interdum. Mauris et tellus congue , rutrum neque a, varius felis. Phasellus nibh diam, tincidunt nec risus ut, auctor gravida metus that covers the front of the eye.'
+       const bannerTextP = 'Donec pellentesque dapibus interdum. Mauris et tellus congue , rutrum neque a, varius felis. Phasellus nibh diam, tincidunt nec risus ut, auctor gravida metus that covers the front of the eye.'
 
 
   return (
