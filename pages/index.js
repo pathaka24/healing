@@ -7,6 +7,7 @@ import Banner from '../components/banner/banner'
 import Service from '../components/service/service'
 import List from '../components/testimon/list'
 import Contact from '../components/contact/contact'
+import Testimon from '../components/testimon/testimon'
  
 
 export default function App() {
@@ -17,12 +18,7 @@ export default function App() {
            <Container /> 
            <Banner imgUrl='/static/proudly-1.jpg' pattern='/static/pattern-1.png' />
            <Service />
-           <div style={{display:'flex'}}>
-           <List />
-           <List />
-           <List />
-           <List />
-           </div>
+              <Testimon />
             <Contact />
     </div>
   )
